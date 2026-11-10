@@ -16,7 +16,7 @@ Core themes explored:
 - Tree-based machine learning models
 - Optimization algorithms
 - Mixed-frequency time series modeling
-- Financial forecasting and trading strategy design
+- Financial forecasting
 
 Most projects are implemented in **Python**, with additional work in MATLAB and Java 
 for specialized modeling tasks.
@@ -68,18 +68,6 @@ Focus: optimization theory applied in practice.
 - Forecast evaluation & error decomposition
 
 Focus: real-time macroeconomic forecasting.
-
----
-
-### 🔹 Cryptocurrency Forecasting & Trading
-`Seminar_Cryptocurrency_Modelling`
-
-- Time-series modeling of crypto returns
-- Residual-based long/short strategy
-- Risk management and PnL evaluation
-- Performance visualization and exposure control
-
-Focus: combining econometrics with systematic trading design.
 
 ---
 
